@@ -1,5 +1,5 @@
-Bright Cream Yellow: #FFDC5C
-Gold Yellow: #DB9B39
-Core Orange: #E6680D
-Red Orange: #C93706
-Brick Red: #A10800
+core grey: #D9DCDE;
+dark grey: #5C5E5E;
+light blue: #9BC6E3;
+dark blue: #40525E;
+medium grey: #A7A9AB;
